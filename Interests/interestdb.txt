@@ -1,0 +1,29 @@
+Pause til 11:06
+
+- fortsette med INSERT, UPDATE, DELETE 
+- backend mes ASP.NET som gjør det samme
+
+
+Person
+ - id
+ - name
+
+1 Per
+2 Pål 
+3 Espen
+
+Interest
+ - id
+ - name
+
+1 Golf
+2 Matlaging
+3 Slalom
+ 
+PersonInterest
+ - personId
+ - interestId
+( - date)
+
+
+Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
